@@ -6,10 +6,10 @@
         <asp:TextBox ID="TextBoxBuscarAlbum" runat="server"></asp:TextBox>
 &nbsp;&nbsp;&nbsp;
         <asp:Button ID="ButtonBuscar" runat="server" OnClick="ButtonBuscar_Click" Text="Buscar" />
-    </h3>
-    <p>
-        <asp:Label ID="LabelEncontrado" runat="server" Text="[ESTADO]"></asp:Label>
+</h3>
+<p>
+    <asp:Label ID="LabelEncontrado" runat="server" Text="[ESTADO]"></asp:Label>
 &nbsp;&nbsp;&nbsp;
-        <asp:Button ID="ButtonEliminar" runat="server" Enabled="False" Height="40px" OnClick="ButtonEliminar_Click" Text="ELIMINAR" Width="105px" />
-    </p>
+    <asp:Button ID="ButtonEliminar" runat="server" Enabled="False" Height="40px" OnClick="ButtonEliminar_Click" Text="ELIMINAR" Width="105px" />
+</p>
 </asp:Content>
