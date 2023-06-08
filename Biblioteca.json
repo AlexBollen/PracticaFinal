@@ -1,0 +1,17 @@
+[
+  {
+    "TituloAlbum": "Only By The Night",
+    "ArtistaAlbum": "Kings of Leon",
+    "Canciones": [
+      {
+        "NombreCancion": "Sex on Fire",
+        "TiempoDuracion": "3:23"
+      },
+      {
+        "NombreCancion": "Crawl",
+        "TiempoDuracion": "4:06"
+      }
+    ],
+    "FechaPublicacion": "06/11/2008"
+  }
+]
